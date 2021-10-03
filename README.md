@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Adeesha97"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Adeesha97" /></a></p><br><br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeesha97&show_icons=true&locale=en" alt="adeesha97" /></p>
 
