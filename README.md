@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeesha</h1>
+<br>
 - 🔭 I’m former intern full stack developer at **Axiata Digital Labs**
 
 - 🌱 I’m currently following degree **BSc (Hons) in Information Technology specialized in Software Engineering**
