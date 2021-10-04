@@ -3,7 +3,7 @@
 
 - 🔭 I’m former intern full stack developer at **Axiata Digital Labs**
 
-- 🌱 I’m currently following degree - **BSc (Hons) in Information Technology specialized in Software Engineering**
+- 🌱 I’m currently following a degree - **BSc (Hons) in Information Technology specialized in Software Engineering**
 
 
 
