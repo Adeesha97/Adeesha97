@@ -53,16 +53,16 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
 </p>
+
 <br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeesha97&show_icons=true&locale=en&layout=compact" alt="adeesha97" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeesha97&show_icons=true&locale=en" alt="adeesha97" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeesha97&" alt="adeesha97" /></p>
 
 <br>
+
 <p align="right">
 <a href="https://twitter.com/adee_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adee_exe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adeesha kawshal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeesha kawshal" height="30" width="40" /></a>
