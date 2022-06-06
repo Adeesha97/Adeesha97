@@ -56,8 +56,12 @@
 
 </p>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeesha97&show_icons=true&locale=en&layout=compact" alt="adeesha97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeesha97&show_icons=true&locale=en" alt="adeesha97" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeesha97&" alt="adeesha97" /></p>
+
 <br>
 <p align="right">
 <a href="https://twitter.com/adee_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adee_exe" height="30" width="40" /></a>
