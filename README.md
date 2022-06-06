@@ -58,8 +58,8 @@
 <br>
 
 <div display="flex" >
-<p flex: 50%><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adeesha97&show_icons=true&locale=en&layout=compact" alt="adeesha97" /></p>
-<p flex: 50%>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=adeesha97&show_icons=true&locale=en" alt="adeesha97" /></p>
+<p flex= "50%"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adeesha97&show_icons=true&locale=en&layout=compact" alt="adeesha97" /></p>
+<p flex= "50%">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=adeesha97&show_icons=true&locale=en" alt="adeesha97" /></p>
 </div>
 
 <br>
