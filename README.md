@@ -30,6 +30,9 @@
 </div>
 
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> </p>
+
 <br> 
 
 <div align="center"> 
@@ -41,7 +44,6 @@
   
 <br> 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> </p>
 
 <!-- <div align="right">
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank">
