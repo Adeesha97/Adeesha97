@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> </p>
 
+![MySQL](https://img.shields.io/github/commits-since/{adeesha97}/.svg)
 <br>
+
 
 - 🔭 I’m currently working as an Associate Software Engineer at **Sampath Information Technology Solutions**
 
