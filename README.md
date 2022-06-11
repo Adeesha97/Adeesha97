@@ -62,3 +62,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+  
+<br>
+<p align="right">
+<a href="https://twitter.com/adee_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adee_exe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adeesha kawshal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeesha kawshal" height="30" width="40" /></a>
+<a href="https://instagram.com/_adee.exe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adee.exe_" height="30" width="40" /></a>
+<a href="https://medium.com/@adeeshakawshal1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adeeshakawshal1997" height="30" width="40" /></a>
+</p>
