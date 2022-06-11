@@ -1,6 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Adeesha</h1>
 <h3 align="center">| Frontend Developer | Blogger |</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> </p>
+
+<br>
+
 - 🔭 I’m currently working as an Associate Software Engineer at **Sampath Information Technology Solutions**
 
 - 🔭 I’m former intern full stack developer at **Axiata Digital Labs**
@@ -26,9 +30,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> </p>
-
-<br> 
+ 
 
 <div align="center"> 
   <a href="https://github.com/rafaballerini">
