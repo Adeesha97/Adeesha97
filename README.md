@@ -36,10 +36,9 @@
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   
 </div>
+  
 <br> 
-
-
-  <br>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> </p>
 
 <!-- <div align="right">
@@ -62,8 +61,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div> -->
-  
-<br>
   
 <p align="right">
   <a href="https://twitter.com/adee_exe" target="blank">
