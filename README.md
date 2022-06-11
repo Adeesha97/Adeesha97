@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adeesha</h1>
-<h3 align="center">| Frontend Developer | Blogger |</h3>
+# Hi 👋, I'm Adeesha
+## align="center"| Frontend Developer | Blogger |</h3>
 
 - 🔭 I’m currently working as an Associate Software Engineer at **Sampath Information Technology Solutions**
 
