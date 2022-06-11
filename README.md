@@ -37,17 +37,22 @@
 
 <br> 
 
+<!--   height="30" width="40" -->
+  
 <p align="right">
   <a href="https://twitter.com/adee_exe" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="adeesha kawshal"  />
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="adeesha kawshal"  />
   </a>
   <a href="https://linkedin.com/in/adeesha kawshal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeesha kawshal" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adeesha kawshal"  />
   </a>
   <a href="https://instagram.com/_adee.exe_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adee.exe_" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_adee.exe_"  />
   </a>
   <a href="https://medium.com/@adeeshakawshal1997" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adeeshakawshal1997" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@adeeshakawshal1997"  />
+  </a>
+  <a href="https://www.sololearn.com/profile/10705903" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="@adeeshakawshal1997"  />
   </a>
 </p>
