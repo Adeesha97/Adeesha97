@@ -8,6 +8,9 @@
 
 - 🌱 I’m followed a degree - **BSc (Hons) in Information Technology specialized in Software Engineering**
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> </p>
+
 <br> 
 <div align="center"> 
   <a href="https://github.com/rafaballerini">
