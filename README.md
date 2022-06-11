@@ -1,9 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Adeesha</h1>
 <h3 align="center">| Frontend Developer | Blogger |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> 
+ <img src="https://img.shields.io/github/commits-since/adeesha97/.svg" alt="adeesha97" />
+</p>
 
-![MySQL](https://img.shields.io/github/commits-since/adeesha97/.svg)
 <br>
 
 
