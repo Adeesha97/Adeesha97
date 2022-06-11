@@ -13,8 +13,6 @@
  </a>
 </p>
 
-<br>
-
 
 - 🔭 I’m currently working as an Associate Software Engineer at **Sampath Information Technology Solutions**
 
