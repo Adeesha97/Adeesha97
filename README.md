@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MaterialUI](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux)
@@ -35,7 +35,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adeesha97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeesha97&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
 
-<br>  
+<br> 
+  
+### Connect with me:
+
+[<img align="left" alt="Adeesha Kawshal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Adeesha Kawshal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adeesha Kawshal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
   
 <p align="right">
   <a href="https://twitter.com/adee_exe" target="blank">
