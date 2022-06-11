@@ -39,7 +39,7 @@
 
 <p align="right">
   <a href="https://twitter.com/adee_exe" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="adeesha kawshal" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="adeesha kawshal"  />
   </a>
   <a href="https://linkedin.com/in/adeesha kawshal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeesha kawshal" height="30" width="40" />
