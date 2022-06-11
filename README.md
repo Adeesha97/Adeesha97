@@ -2,11 +2,14 @@
 <h3 align="center">| Frontend Developer | Blogger |</h3>
 
 <p align="left"> 
- <a>
- <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> 
- </a>
   <a>
  <img src="https://img.shields.io/github/followers/adeesha97.svg?style=social&label=Follow&maxAge=2592000" alt="adeesha97" />
+ </a>
+  <a>
+ <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> 
+ </a>
+ <a>
+ <img src="https://img.shields.io/github/issues-pr-closed/adeesha97/{repo-name}.svg" alt="adeesha97" /> 
  </a>
 </p>
 
