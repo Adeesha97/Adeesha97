@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeesha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<br>
 
 - 🔭 I’m currently working as an Associate Software Engineer at **Sampath Information Technology Solutions**
 
