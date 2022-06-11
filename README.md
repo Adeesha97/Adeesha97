@@ -24,7 +24,16 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg">
   
   
 </div>
