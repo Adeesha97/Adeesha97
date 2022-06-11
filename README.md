@@ -35,7 +35,6 @@
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   
-  
 </div>
 <br> 
 
