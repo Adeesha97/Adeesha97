@@ -28,11 +28,11 @@
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg">
-  <img align="center" alt="adee-Csharp" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg">
+  <img align="center" alt="adee-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="adee-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="adee-Csharp" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg">
+  <img align="center" alt="adee-Csharp" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   
   
 </div>
