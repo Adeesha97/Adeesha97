@@ -9,7 +9,7 @@
  <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> 
  </a>
  <a>
- <img src="https://img.shields.io/github/issues-pr-closed/adeesha97/{repo-name}.svg" alt="adeesha97" /> 
+ <img src="https://img.shields.io/github/issues-pr-closed/adeesha97/React-GoalHandler.svg" alt="adeesha97" /> 
  </a>
 </p>
 
