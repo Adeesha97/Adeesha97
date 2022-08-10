@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <a>
- <img src="https://img.shields.io/github/followers/Adeesha97.svg?style=social&label=Follow&maxAge=2592000" alt="adeesha97" />
+ <img src="https://img.shields.io/github/followers/Adeesha97.svg?style=social&label=Follow&maxAge=2592000" alt="" />
  </a>
   <a>
  <img src="https://komarev.com/ghpvc/?username=adeesha97&label=Profile%20views&color=0e75b6&style=flat" alt="adeesha97" /> 
