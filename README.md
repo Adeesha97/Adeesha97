@@ -18,7 +18,7 @@
 
 - 🔭 I’m former intern full stack developer at **Axiata Digital Labs**
 
-- 🌱 I’m followed a degree - **BSc (Hons) in Information Technology specialized in Software Engineering**
+- 🌱 I’m completed a degree - **BSc (Hons) in Information Technology specialized in Software Engineering**
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
