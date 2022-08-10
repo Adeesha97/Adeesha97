@@ -14,6 +14,8 @@
 </p>
 
 
+- 🔭 I’m currently working as Software Engineer at **Eyepax IT Consulting (Pvt) Ltd**
+
 - 🔭 I’m former Associate Software Engineer at **Sampath Information Technology Solutions**
 
 - 🔭 I’m former intern full stack developer at **Axiata Digital Labs**
