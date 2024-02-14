@@ -28,8 +28,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logoColor=white)
-![Cypress]([https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white))
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logoColor=white&logo=express)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=logoColor=white&flat-square&logo=cypress)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,6 +41,8 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+
 
 
 <br>
