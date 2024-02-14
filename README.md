@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Adeesha</h1>
-<h3 align="center">| Frontend Developer | Blogger |</h3>
+<h3 align="center">| Frontend Developer | Quality Assurnace Engineer | Blogger |</h3>
+
+<br>
 
 <p align="left"> 
   <a>
