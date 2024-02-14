@@ -14,13 +14,15 @@
 </p>
 
 
-- 🔭 I’m currently working as a Software Engineer at **Eyepax IT Consulting (Pvt) Ltd**
+- 🔭 I’m currently working as a Quality Assurnace Engineer at **Atlas Labs**
 
-- 🔭 I’m former Associate Software Engineer at **Sampath Information Technology Solutions**
+- 🔭 I’m  a former Software Engineer at **Eyepax IT Consulting (Pvt) Ltd**
+
+- 🔭 I’m a former Associate Software Engineer at **Sampath Information Technology Solutions**
 
 - 🔭 I’m former intern full stack developer at **Axiata Digital Labs**
 
-- 🌱 I’m completed a degree - **BSc (Hons) in Information Technology specialized in Software Engineering**
+- 🌱 I've completed a degree in - **BSc (Hons) in Information Technology specialized in Software Engineering**
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
