@@ -14,7 +14,7 @@
 </p>
 
 
-- 🔭 I’m currently working as a Quality Assurnace Engineer at **Atlas Labs**
+- 🔭 I’m currently working as an Quality Assurnace Engineer at **Atlas Labs**
 
 - 🔭 I’m  a former Software Engineer at **Eyepax IT Consulting (Pvt) Ltd**
 
